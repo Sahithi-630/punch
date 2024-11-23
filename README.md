@@ -6,7 +6,7 @@
 
 ## ALU
 
-<img src="./ALU.png/">
+<img src="./ALU .png/">
 
 ## FullAdder
 
